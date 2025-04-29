@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aqsa-Khurram
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C++ and python
+- 🌱 I’m proficient in C++, JS, HTML, CSS and currently python
 - 📫 How to reach me aqsakhurram2006@gmail.com
 - 😄 Pronouns: she/her
 
